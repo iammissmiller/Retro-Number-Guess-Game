@@ -1,4 +1,4 @@
-# Retro-Number-Guess-Game
+- Retro-Number-Guess-Game
 
 This is a simple number guessing game using HTML, CSS, and JavaScript.
 
