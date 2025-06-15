@@ -1,8 +1,8 @@
-- Retro-Number-Guess-Game
+# Retro-Number-Guess-Game
 
 This is a simple number guessing game using HTML, CSS, and JavaScript.
 
-You have to guess a number between 1 and 100. The game tells you if your guess is too high, too low, or correct.
+You have to guess a number between 1 and 20. The game tells you if your guess is too high, too low, or correct.
 
 ## Files
 
