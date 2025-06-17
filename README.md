@@ -15,6 +15,10 @@ You have to guess a number between 1 and 20. The game tells you if your guess is
 - Click guess
 - Try to find the correct number
 
+## Live link of my game
+
+https://iammissmiller.github.io/Retro-Number-Guess-Game/
+
 ## Author
 
 [@iammissmiller](https://github.com/iammissmiller)
