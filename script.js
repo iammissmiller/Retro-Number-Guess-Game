@@ -44,6 +44,8 @@ document.querySelector('.check').addEventListener('click', function () {
 
         document.querySelector('.number').style.width = '30rem';
 
+        document.querySelector('.guess').value = secretnumber;
+
         if (score > highscore) {
 
             highscore = score;
